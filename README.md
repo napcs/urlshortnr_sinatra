@@ -52,7 +52,7 @@ If a URL is not found, the visitor is told it's not available.
                                                      +-->| page (nothing.erb)   |
                                                          +----------------------+
 
-
+```
 
 ## Requirements
 
